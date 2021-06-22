@@ -1,2 +1,4 @@
 class DBManager:
-    pass
+    
+    def __init__():
+        pass
